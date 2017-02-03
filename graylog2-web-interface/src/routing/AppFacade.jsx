@@ -16,7 +16,7 @@ import 'stylesheets/font-awesome.min.css';
 import 'stylesheets/newfonts.less';
 import 'stylesheets/bootstrap-submenus.less';
 import 'toastr/build/toastr.min.css';
-import 'stylesheets/rickshaw.min.css';
+import 'rickshaw/rickshaw.min.css';
 import 'stylesheets/graylog2.less';
 
 const AppFacade = React.createClass({
