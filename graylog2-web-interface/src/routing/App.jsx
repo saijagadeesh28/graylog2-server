@@ -7,7 +7,6 @@ import Footer from 'components/layout/Footer';
 import 'stylesheets/chosen.bootstrap.min.css';
 import 'stylesheets/chosen-bootstrap.less';
 import 'stylesheets/jquery.gridster.min.css';
-import 'stylesheets/jquery.dynatable.css';
 import 'stylesheets/typeahead.less';
 import 'c3/c3.css';
 import 'dc/dc.css';
