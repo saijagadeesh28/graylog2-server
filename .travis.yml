@@ -29,7 +29,8 @@ deploy:
   skip_cleanup: true
   local-dir: target/assembly
   on:
-    repo: MilitusInfoSec/graylog2-server
+  
+    repo: saijagadeesh28/graylog2-server
     jdk: oraclejdk8
     branch:
       - master
